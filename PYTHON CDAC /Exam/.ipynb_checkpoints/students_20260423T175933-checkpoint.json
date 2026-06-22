@@ -1,0 +1,26 @@
+[
+   {
+      "rollno": 11,
+      "name": "Vinay",
+      "gpa": 6.6,
+      "branch": "Mechanical"
+   },
+   {
+      "rollno": 21,
+      "name": "Rahul",
+      "gpa": 7.8,
+      "branch": "EC"
+   },
+   {
+      "rollno": 42,
+      "name": "Ramesh",
+      "gpa": 7.1,
+      "branch": "Computer Sc."
+   },
+   {
+      "rollno": 66,
+      "name": "Mahesh",
+      "gpa": 7.4,
+      "branch": "Mechanical"
+   }
+]

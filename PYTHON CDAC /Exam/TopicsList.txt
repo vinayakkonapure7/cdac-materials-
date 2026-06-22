@@ -1,0 +1,13 @@
+- Lambda function
+- File handling
+
+- JSON handling (read/write and parsing)
+- Exception handling (try, except, finally)
+
+- OOP: when to use, how to know?
+- Magic methods (init, str, operator overloading)
+- Getter and Setter
+
+- SQLite
+- Decorators
+- numpy and pandas
